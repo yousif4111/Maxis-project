@@ -17,7 +17,9 @@ One department specialized in marketing our products using telesales calls. ☎�
 
 They needed a propensity model to score our customer base based on their willingness to subscribe to our fiber service, which can help the staff in this department reach out to targeted groups faster and increase their conversion rate. 📈🎯
 
-![image](https://github.com/othneildrew/Best-README-Template/assets/46527978/df662318-f625-4493-8381-515f9b816c9f)
+![image](https://github.com/yousif4111/Maxis-project/assets/46527978/69cc5394-05f7-45d8-8462-2d0cff71c841)
+
+
 
 
 
