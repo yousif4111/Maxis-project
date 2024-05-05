@@ -13,9 +13,9 @@
 
 One of the most essential products provided by telecom companies is **Fiber Internet**. 🌐💨
 
-One department specialized in marketing our products using telesales calls. ☎️ 
+Our Marketing Department they wanted analyticals and AI solution to **improve their conversion rate on telesales calls** for this product. ☎️ 
 
-They needed a propensity model to score our customer base based on their willingness to subscribe to our fiber service, which can help the staff in this department reach out to targeted groups faster and increase their conversion rate. 📈🎯
+One solution we developed for them was a propensity model **to score our customer base based on their willingness to subscribe to our fiber service**, which can help the staff in this department reach out to targeted groups faster and increase their conversion rate. 📈🎯
 
 ![image](https://github.com/yousif4111/Maxis-project/assets/46527978/69cc5394-05f7-45d8-8462-2d0cff71c841)
 
@@ -39,9 +39,9 @@ The data that is used is intellectual property; however, here is a general descr
 
 ## Methadology
 
-We trained different types of classification models, such as XGboost, LightGBM, and so on. 🌟🧪
+We trained different types of **classification models**, such as **XGboost, LightGBM**, and so on. 🌟🧪
 
-Since we care more about minimizing false negatives, the metric that should be used to evaluate the model's performance is recall. By focusing on maximizing it, you prioritize minimizing false negatives, as a higher recall indicates a lower rate of missed positive instances. This ensures that fewer potential customers who are likely to buy fiber are incorrectly classified as not likely to buy, reducing missed opportunities for conversion. ⚖️🔍
+Since we care about minimizing both false negatives and false positives, the metric that we used to evaluate the model's performance was the F1 score. This metric helps in balancing precision and recall. By focusing on maximizing the **F1 score**, you prioritize both minimizing false negatives (increasing recall) and minimizing false positives (increasing precision). This ensures that fewer potential customers who are likely to buy fiber are incorrectly classified as not likely to buy, reducing missed opportunities for conversion, while also avoiding misclassifying unlikely customers as likely, which can waste resources. ⚖️🔍
 
 ### Scoring Customer Base based on Probability to Buy Fiber:
 
