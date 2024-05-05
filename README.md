@@ -11,7 +11,7 @@
 
 ## Problem Statment
 
-One of the most essential products provided by telecom companies is fiber internet service. 🌐💨
+One of the most essential products provided by telecom companies is **Fiber Internet**. 🌐💨
 
 One department specialized in marketing our products using telesales calls. ☎️ 
 
